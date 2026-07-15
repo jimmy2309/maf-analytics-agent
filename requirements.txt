@@ -1,3 +1,8 @@
+psycopg2-binary
+sqlalchemy
+python-dotenv
+httpx
+openai
 fastapi
 uvicorn
-python-dotenv
+pydantic
